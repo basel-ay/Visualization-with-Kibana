@@ -6,6 +6,8 @@ Kibana also provides a presentation tool, referred to as Canvas, that allows use
 
 The combination of Elasticsearch, Logstash, and Kibana, referred to as the "Elastic Stack" (formerly the "ELK stack"), is available as a product or service. Logstash provides an input stream to Elasticsearch for storage and search, and Kibana accesses the data for visualizations such as dashboards. Elastic also provides "Beats" packages which can be configured to provide pre-made Kibana visualizations and dashboards about various database and application technologies.
 
+[Elastic Kibana Documentation](https://www.elastic.co/guide/en/kibana/current/introduction.html)
+
 ## Samples
 
 ![image](https://github.com/basel-ay/Visualization-with-Kibana/assets/64821137/81635914-68fb-4762-b59c-9d8fbb9d70ef)
